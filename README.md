@@ -24,9 +24,11 @@ There is not enough qualified, retirement-ready employees.  The total number is 
 
 ### Further Investigation
 Retire Salary
+
 ![alt text](https://github.com/bmliddicoat/Pewlett_Hackard_Analysis/blob/1c42eead2d66918c64e0950177c23ea2d46c5795/retire_salary.png)
 
 Mentor Salary
+
 ![alt text]( https://github.com/bmliddicoat/Pewlett_Hackard_Analysis/blob/1c42eead2d66918c64e0950177c23ea2d46c5795/mentor_salary.png)
 
 The data on salaries for retirees and potential mentor can be vital information for the company.  The wages could be compared against competitors, internal employees, and local wages.  The hiring department can determine how to use these salaries to incentives external applicants and internal applicants.  Also, if wages are lower than competitors, the company could see a tsunami of workers leaving for higher compensation.  The silver 'tsunami' and incentive "tsunami" could be disastrous for Pewleer Hackard.  
